@@ -1,0 +1,19 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xeron07/interview.git"
+  },
+  "author": "Md. Minhaz uddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xeron07/interview/issues"
+  },
+  "homepage": "https://github.com/Xeron07/interview#readme"
+}
