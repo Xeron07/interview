@@ -25,7 +25,6 @@
 - Explain the concept of hoisting in JavaScript.
 - What is the virtual DOM in React?
 - What is the difference between useState & useEffect?
-- How does encapsulation contribute to abstraction in object-oriented programming?
 - Difference between overloading and overriding with example
 - Can you make queue using stack?
 - What is the output of this code
