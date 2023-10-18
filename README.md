@@ -4,7 +4,7 @@
 
 **Array of strings :** const **words** = ["apple", "banana", "cherry", "date", "fig"];
 
-**Array of numbers :** const **numbers** = [1,2,3,4,5,6,7,8];\*\*
+**Array of numbers :** const **numbers** = [1,2,3,4,5,6,7,8];
 
 1. Given an array of numbers (**_numbers_**), filter out all the even numbers
 2. Given an array of strings (**_words_**), capitalize the first letter of each string
@@ -15,7 +15,7 @@
    **Array:** const numbers = [8, 2, 10, 5, 3, 7, 1, 4, 9];
    **Target:** const targetElement = 7;
 
-6. Can you use binary seach for the previous question array?
+6. Can you use binary search for the previous question array?
 
 **Verbal:**
 
@@ -26,7 +26,7 @@
 - What is the virtual DOM in React?
 - What is the difference between useState & useEffect?
 - Difference between overloading and overriding with example
-- Can you make queue using stack?
+- Can you make a queue using stack?
 - What is the output of this code
 
   ![](https://res.cloudinary.com/emerging-it/image/upload/v1697544453/Aspose.Words.a91bfd22-010f-4f4d-9c1d-bbde1b8a3069.001_ztelk0.png)
